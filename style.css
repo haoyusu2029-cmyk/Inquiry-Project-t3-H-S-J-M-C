@@ -8,7 +8,7 @@ ul{
     display: flex;
     flex-direction: row;
     gap: 20%;
-    
+      
 }
 
 #img2{
@@ -60,4 +60,8 @@ ul{
     padding: 2%;
     width: 10%;
     height: 5%;
+}
+
+.margin2{
+    margin: 4%;
 }
