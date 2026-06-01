@@ -1,3 +1,10 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+footer{
+    background-color: blanchedalmond;
+    width: 100%;
+}
 header{
     display: flex;
     flex-direction: row;
@@ -23,8 +30,8 @@ ul{
 }
 
 #img3{
-    width: 25%;
-    height: 50%;
+    width: 40%;
+    height: 45%;
 }
 
 .color{
