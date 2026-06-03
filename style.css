@@ -1,4 +1,33 @@
-.start{
-
+.A1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
 }
 
+.A3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.A2{width: 50vw;
+    height: 25vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+  
+  .A4{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .A5{
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    align-items: center;
+  }
