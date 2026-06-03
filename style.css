@@ -1,7 +1,15 @@
 .nav{
     display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+    justify-content: flex-end;
+    justify-content: space-evenly;
+}
+
+.head{
+    background-color: antiquewhite;
+}
+
+.body{
+    background-color: lightyellow;
 }
 
 .div1{
@@ -22,7 +30,7 @@
     width: 50%;
     height: 50%;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 .div4{
@@ -30,4 +38,14 @@
     height: 50%;
     display: flex;
     justify-content: space-around;
+}
+
+.footer{
+    background-color: rgb(249, 219, 208);
+}
+
+.headdiv{
+    width: 20%;
+    height: 20%;
+    display: flex;
 }
