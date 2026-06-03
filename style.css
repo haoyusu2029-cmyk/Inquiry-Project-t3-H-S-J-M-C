@@ -1,0 +1,28 @@
+.nav{
+    display: flex;
+    flex-direction: row;
+}
+
+.div1{
+    width: 10%;
+    height: 10%;
+    display: flex;
+}
+
+.div2{
+    width: 50vw;
+    height: 50vh;
+    display: flex;
+}
+
+.div3{
+    width: 50vw;
+    height: 50vh;
+    display: flex;
+}
+
+.div4{
+    width: 50vw;
+    height: 50vh;
+    display: flex;
+}
