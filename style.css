@@ -1,33 +1,8 @@
 .A1{
     display: flex;
-    justify-content: space-between;
-    align-items: center;
-    
+    justify-content: end;
+    flex-direction: row-reverse;
+    gap: 10;
 }
 
-.A3{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
 
-.A2{width: 50vw;
-    height: 25vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
-}
-  
-  .A4{
-    display:flex;
-    justify-content: center;
-    align-items: center;
-  }
-
-  .A5{
-    display: flex;
-    gap: 16px;
-    justify-content: center;
-    align-items: center;
-  }
